@@ -1,0 +1,36 @@
+body{
+    margin-left: 400px;
+    margin-top: 200px;
+    background: #151D21;
+    background-image: url(bg.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: white;
+}
+img{
+    height: 400px;
+    width: 400px;
+    margin-left: 600px;
+    margin-bottom: 500px;
+}
+
+input{
+width: 500px;
+margin-right: 800px;
+}
+button{
+    background-color: green;
+}
+
+.dropdown{
+   position: relative;
+   display: inline-block;
+}
+
+#output{
+    margin: 30px;
+}
+
+#score_div{
+    text-align: left;
+}
